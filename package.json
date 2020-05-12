@@ -1,0 +1,25 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "jest-another-RPG",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/izabelacloud/jest-another-RPG.git"
+  },
+  "author": "Izabela Petrovicova",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/izabelacloud/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/izabelacloud/jest-another-RPG#readme",
+  "dependencies": {
+    "inquirer": "^7.1.0"
+  },
+  "devDependencies": {
+    "jest": "^26.0.1"
+  }
+}
